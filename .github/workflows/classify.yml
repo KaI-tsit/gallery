@@ -6,8 +6,8 @@ on:
     - cron: '0 11 * * *'
 
 env:
-  GIT_USER: sparkzky # change to yourself
-  GIT_EMAIL: sparkhhhhhhhhhh@outlook.com # change to yourself
+  GIT_USER: KaI-tsit # change to yourself
+  GIT_EMAIL: 2381378538qlj@gmail.com # change to yourself
   THEME_REPO: lfkdsk/hexo-theme-type
   THEME_BRANCH: main
   TEMPLATE_REPO: lfkdsk/album_template
