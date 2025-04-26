@@ -1,13 +1,12 @@
 title: 照片墙
-subtitle: Take it easy
-description: 放轻松
+subtitle: Slow Down
+description: 生活的每一刻都值得珍惜
 cover: 'https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/IMG_7586.4e91my1ve140.17iz0sa56gik.webp'
 author: KaI-tsit
 
 footer_logo: 
   use: self
   self:
-    link: 'https://KaI-tsit.github.io/'
     src: 'https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/tripper2white.2pbuwaqvndu0.webp'
 
 url: https://KaI-tsit.github.io/gallery
@@ -15,7 +14,7 @@ root: /gallery
 
 photography_page:
   slogan: true
-  slogan_descr: '火花'
+  slogan_descr: 'QQ gallery'
   travel_slogan: true
   travel_slogan_descr: 'KaI-tsit'
 
